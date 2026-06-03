@@ -1,10 +1,8 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Sathish%20Ravikumar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20CS%20Engineering%20Student&descAlignY=62&descSize=16" width="100%"/>
+
 <div align="center">
 
-# 👋 Hi, I'm Sathish Ravikumar
-
-### Full Stack Developer | Computer Science Student | Problem Solver
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%2B+Spring+Boot+Developer;Problem+Solver;Always+Learning+New+Technologies" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Hey+there%2C+I'm+Sathish+%F0%9F%91%8B;Full-Stack+Dev+%7C+React+%2B+Spring+Boot;Building+REST+APIs+%26+Web+Apps;Always+Learning%2C+Always+Growing+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -58,27 +56,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SathishR2306&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathishR2306&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=SathishR2306&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
